@@ -1,12 +1,21 @@
-Desenvolvimento de CRUD utilizando Firebase e GraphQL 
-Marcello Kantovitz Chuahy 
+# Desenvolvimento de CRUD utilizando Firebase e GraphQL
 
+## Marcello Kantovitz Chuahy 
+
+Terminal:
+```
 firebase login 
 Allow Firebase to collect CLI usage and error reporting information? Yes 
-firebase serve 
-✔ functions[graphql]: http function initialized (http://localhost:5000/crudwithgraphqlmarcellochuahy/us-central1/graphql). 
+firebase serve  
+```
+Colar a URL exibida no Terminal em uma aba do navegador:
+```
+✔ functions[graphql]: http function initialized (http://localhost:5000/crudwithgraphqlmarcellochuahy/us-central1/graphql).
+```
 
-Exemplos de consultas / mutações:
+
+
+### Exemplos de consultas / mutações:
 
 ```
 {
