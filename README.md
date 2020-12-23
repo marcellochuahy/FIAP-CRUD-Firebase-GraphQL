@@ -68,6 +68,6 @@ mutation {
 ```
 
 Para parar a execução:
-
-control C
+```
+control C 
 firefase logout
