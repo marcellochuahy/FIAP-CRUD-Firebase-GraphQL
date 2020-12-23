@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crudwithgraphqlmarcellochuahy",
+  "private_key_id": "e4fd866288f1587880586af39b77de6036ed659f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdXY0ar7Oj30Tz\nNbV6Pg68BYp5/vwLGas0w98ziuHLLxTDSNJrUWcF5opgG+wYfUIDjIiv8ECS1Af2\nKAAcJKrx/8lhl+R+ZH1QtWT60DbtkAFgH3PzaWtVfKvZ2jUGNjSxGNzzcbVGIg1q\nkQjeinrRAQ8JJ3K1Md3b+MLoysk6ENPplFezxV4bOOlFXkfiUEV9lJ2QqCqZ1t6G\nVgh6CVuY9fjEXo90xKBZa3KaIDTymvDXEAgmPxG+FjNRxdXDQPebD5kEc8vS3fVs\nz9CROjw26a5GWkJNcp7tvWkIR7DK/5RckAxHfCJFfCKR/UTleLl4v4SZdRzRa7zM\nySvddkPRAgMBAAECggEAJFNTTnD3GpGgOLUx9GstWw07Y0BvPX+6I+bAGAWL7Cts\n00x02DWU/slyMU/YvulxKuEOr3BZ85rS0Kl4pwZ22ICHY8ocgmmffNk2m2gjedC3\nZJE2Ip732ia6g8IpYcry/FuFK4QYyHz1VF9w6PAV/DeOmTocMkP11wCUO4kODOM3\nW2TyeADwcSGpVqkASSiHr/L/Rufw4k3qgm/wEwIAAZy24M69b2mziSOBjjswEV5d\nmUMu/RfSphRUrG/7XXNufnnfSy5cOdJHq1sW4T0KDpUvNsajK86RPZNU7H2PrG2O\ndFoR0OmmUPwb3ZM60S3L35anszS2+RToo/PnEXIaXQKBgQDNWP8gBx4HI2EVdGUr\n1iYRpY9SnGLZYSOIoa9+ljDni656cBLH8IbWLao18I17Y7zh0lz9LnIhm5y2YCBq\nDQBtRj1J8dUhM3FTRbGWUvU+bDALUlRnFgsWQgNTm6ZZ0UYqE6PYsFNzhiyWwpvb\nIcfMw/hauYwN6aberMawyHbbRQKBgQDELqRJ8DUxgpfXd0w5CVIjA+iw2OmmdA/f\nT4SbCpdkbT+iJPAWdH0p1nv3v3HmS2v3i58+faCDg5x/5YGZqiov9gbeRAIbGrWY\n0FVijNKda0xJL963dydqaXE3tyv8vCZV5CS0lkimCeZdqA+IobSjXBoho+XkCoqd\nPXLwkMIJHQKBgACF9Ih5XCs6fNnYJRXagthSqq3UNjBFnhiQCOlyqoc8hOJM/M9D\nnqRXE3L1vPaOh4GvzorannHVeq3ASvTaOaENp8RTeG6QOf6zU8OFTJivH+Q3fn2Q\nwdB5tJZ29BKQhPRAfo9jy6KkueJcdpc1W9P6v9xDUscKTGGO4Sa8LAldAoGAQc7j\njWnmbhVAmiaKixd1VgmZpLkep5eHO4GRGfETl7yN+/YoE2BAHCi2rQSrUHU8Ym2T\nnYLGtVcQyFZUgxdxz2TYKPbnPfBXuksoWUaj3+p+TI6iRyjRMADu2aG4P69drLI7\nHdjLxebMP96AV3TnA2WB3ob8NuLSXKygQdJNRIECgYEAxMB+mv6f/j7Utu6nNZIn\n3TPNJ5wm/gU71hpSwIUjjYj4auvGNXrpgsKFDJ2jAtZPe0FPPBozmjtXAKyDBrSw\n8Bq2SMp++L6i8sfrN9Xp2U8ZlvoW5BYh48oRdEAPoGlrsH38Rg5UI+bzPSABVNTz\nDktD5SbbKUchT1NaYCQQBGI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pq5h2@crudwithgraphqlmarcellochuahy.iam.gserviceaccount.com",
+  "client_id": "107222133134003113801",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pq5h2%40crudwithgraphqlmarcellochuahy.iam.gserviceaccount.com"
+}
